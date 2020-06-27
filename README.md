@@ -1,0 +1,2 @@
+# Sublime
+Python Build Setting
