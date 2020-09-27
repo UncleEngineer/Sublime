@@ -1,5 +1,5 @@
 {
-    "cmd": ["c:/Python38/python.exe", "-u", "$file"],
+    "cmd": ["C:/Python38/python.exe", "-u", "$file"],
     "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
     "selector": "source.python",
     "env":{"PYTHONIOENCODING":"utf8"}
